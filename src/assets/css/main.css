@@ -1,0 +1,15 @@
+.loginbg {
+  background-image: url(/src/assets/images/hedaer_bg.png);
+  width: 375px;
+  height: 200px;
+}
+
+.logo {
+  background-image: url(/src/assets/images/logo.png);
+  width: 160px;
+  height: 160px;
+}
+
+footer {
+  background-color: #4C5A72;
+}
